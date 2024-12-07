@@ -1,1 +1,27 @@
-# hyperthon-v1
+# Hyperthon v1 Projects
+
+Below is a list of participants and their project repositories from Hyperthon v1.
+
+- **Shozaib Khan**: [GitHub](https://github.com/Shozaib-Khan/coinex)
+- **Achintya Singh**: [GitHub](https://github.com/achiit/hyperthon)
+- **Lingaraj**: [GitHub](https://github.com/Lingaraj08/Hyperthon)
+- **Vignesh M**: [GitHub](https://github.com/Vigneshm2004/hyperthon)
+- **Aditya Singh**: [GitHub](https://github.com/Adi-21/lesgaspay)
+- **Shaik Mohammed Huzaifa**: [GitHub](https://github.com/Shaik-mohd-huzaifa/Adverse)
+- **Mohammed Aftab**: [GitHub](https://github.com/afthaabb/NFTonair)
+- **Nikhil R**: [GitHub](https://github.com/nikhil-r0/tale-weaver)
+- **Abhishek Yadav**: [GitHub](https://github.com/Abhi270303/CrazyKarenge)
+- **Pavan J**: [GitHub](https://github.com/PavanJ-16/Hyperthon)
+- **Aman Patel**: [GitHub](https://github.com/amanp8l/call)
+- **Kanva Bhatia**: [GitHub](https://github.com/KanvaBhatia/devops-new)
+- **Mohammed Rayan A**: [GitHub](https://github.com/Rayan9064/MemeBlitz)
+- **Kushal**: [GitHub](https://github.com/kushalsrinivas/hyperthon)
+- **Ayushmaan**: [GitHub](https://github.com/ayushmaan76/codebattle.git)
+- **Ujwal Pai Jakarbet**: [GitHub](https://github.com/Paiggasaur/doggo-thingyy)
+- **Aharnish Jha**: [GitHub](https://github.com/Aharnish0Jha/Hyperthon)
+- **Rahul**: [GitHub](https://github.com/drahulsingh/daily-affirmation-bot)
+- **Udhay Bhat**: [GitHub](https://github.com/udhaybhat00/text_to_handwriting)
+- **Nehil Chandrakar**: [GitHub](https://github.com/NEhIL06/TheDenish)
+- **Prajwal P Hiremath**: [GitHub](https://github.com/Prajwal9git/SpeedCoding/blob/main/transformImages.ipynb)
+- **Aazim Anish**: [GitHub](https://github.com/AazimAnish/basefolio)
+- **Hafeefa P C**: [GitHub](https://github.com/HafeefaPC/events)
